@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/falling-ascii-money/static/css/main.8a073a39.css",
+    "main.js": "/falling-ascii-money/static/js/main.a38ffad2.js",
+    "static/js/453.cc0bd6c4.chunk.js": "/falling-ascii-money/static/js/453.cc0bd6c4.chunk.js",
+    "index.html": "/falling-ascii-money/index.html",
+    "main.8a073a39.css.map": "/falling-ascii-money/static/css/main.8a073a39.css.map",
+    "main.a38ffad2.js.map": "/falling-ascii-money/static/js/main.a38ffad2.js.map",
+    "453.cc0bd6c4.chunk.js.map": "/falling-ascii-money/static/js/453.cc0bd6c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a073a39.css",
+    "static/js/main.a38ffad2.js"
+  ]
+}
